@@ -1,0 +1,55 @@
+header {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+main img {
+    margin-left: 50px;
+    border-radius: 200px;
+    border-style: dotted;
+    width: 160px;
+    height: 400px;
+}
+
+h1 {
+
+    text-decoration: dashed;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.boton {
+    background-color: blue;
+    font-size: large;
+    color: wheat;
+    width: 120px;
+    height: 80px;
+    border-radius: 10px;
+    border-color: black;
+    margin-left: 5px;
+}
+
+.btnEnvios {
+    width: 100px;
+    height: 80px;
+}
+
+.mapitas {
+    display: inline-block;
+    margin-top: 40px;
+    width: 300px;
+}
+
+main p {
+
+    color: red;
+    text-align: center;
+}
+
+footer {
+    background-color: aqua;
+
+}
